@@ -37,14 +37,14 @@ The project includes various SQL queries to perform data analysis. Some of the q
 
 ## Tableau Dashboards
 
-To visualize the insights and KPIs from the data analysis, we will create Tableau dashboards. Some potential KPIs for visualization include:
+To visualize the insights and KPIs from the data analysis, a Tableau dashboard was create. Some potential KPIs for visualization include:
 - Total Revenue
 - Gender Distribution
 - Average Transaction Amount
 - Merchant Performance
 - Customer Age Distribution
 - Most Frequent Transaction Dates
-- And others!
+
 
 ## Getting Started
 
@@ -57,4 +57,4 @@ To visualize the insights and KPIs from the data analysis, we will create Tablea
 
 ## Conclusion
 
-This project was a great opportunity to practice my SQL and data analysis skills, explore real-world data, and present insights through data visualization. 
+This project was a great opportunity to practice my SQL and data analysis skills, explore real-world data, and present insights through data visualization. Here is the [Dashboard](https://public.tableau.com/views/CutomerTransactionsDashboard/CustomerTransactionDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) link for your reference.
