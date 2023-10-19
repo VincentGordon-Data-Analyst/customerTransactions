@@ -57,4 +57,4 @@ To visualize the insights and KPIs from the data analysis, a Tableau dashboard w
 
 ## Conclusion
 
-This project was a great opportunity to practice my SQL and data analysis skills, explore real-world data, and present insights through data visualization. Here is the [Dashboard](https://public.tableau.com/views/CutomerTransactionsDashboard/CustomerTransactionDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) link for your reference.
+This project was a great opportunity to practice my SQL and data analysis skills, explore real-world data, and present insights through data visualization. Here is the [Dashboard](https://public.tableau.com/views/CustomerTransactionsDashboard/CustomerTransactionDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) link for your reference.
